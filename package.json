@@ -1,0 +1,12 @@
+{
+  "name": "interactive-card",
+  "version": "1.0.0",
+  "description": "![Design preview for the Interactive card details form coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass sass/styles.scss css/styles.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
